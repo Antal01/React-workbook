@@ -47,5 +47,5 @@
 15. **Explain the concept of controlled and uncontrolled components in React forms.**
     - Controlled components are React components whose form elements (like input fields) are controlled by React state, while uncontrolled components rely on the DOM for state management.
 
-16. **How does React handle events?**
-    - React uses a synthetic event system that normalizes browser inconsistencies and provides a consistent interface for handling events. Events in React are camel-cased and passed as functions.
+16. **Explain the concept of conditional rendering in React. Provide an example scenario where conditional rendering might be used.**   
+    - Conditional rendering in React involves rendering different components or content based on certain conditions. For example, you might conditionally render a "Login" button if a user is not authenticated or display a "Logout" button if they are authenticated. This helps tailor the user interface based on specific criteria or user interactions.   
